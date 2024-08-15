@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGN9Z4DteA/mdaIC9k--VI-4a65rp5N6Q/edit?utm_content=DAGN9Z4DteA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
  
  <h1 align="center">Hi 👋, I'm Hadibuzzaman (Hadi)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
