@@ -7,7 +7,7 @@
  <h1 align="center">Hi 👋, I'm Hadibuzzaman (Hadi)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="10" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi2102060&label=Profile%20views&color=0e75b6&style=flat" alt="hadi2102060" /> </p>
