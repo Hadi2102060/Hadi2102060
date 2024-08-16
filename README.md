@@ -1,6 +1,7 @@
 
 
 <img src="standard.gif" alt="Logo" style="width: 800; height: auto;">
+<img src="standard.gif" alt="Logo" style="width: 800; height: auto;">
 
  
  <h1 align="center">Hi 👋, I'm Hadibuzzaman (Hadi)</h1>
