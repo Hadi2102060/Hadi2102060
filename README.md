@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndFWg0gbvv6cq4rV5vXFSt9bm2YOlmBDc8A&s)
 
 <img src="standard.gif" alt="Logo" style="width: 800; height: auto;">
  
