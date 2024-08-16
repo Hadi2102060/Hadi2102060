@@ -1,6 +1,6 @@
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndFWg0gbvv6cq4rV5vXFSt9bm2YOlmBDc8A&s)
 
-<img src="standard.gif" alt="Logo" style="width: 800; height: auto;">
+<img src="standard.gif" alt="Logo" style="width: 800; height: 800;">
  
 
  
