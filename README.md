@@ -1,4 +1,7 @@
-![logo](standard.gif)
+
+
+<img src="standard.gif" alt="Logo" style="width: 400; height: auto;">
+
  
  <h1 align="center">Hi 👋, I'm Hadibuzzaman (Hadi)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
