@@ -1,4 +1,12 @@
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndFWg0gbvv6cq4rV5vXFSt9bm2YOlmBDc8A&s)
+<style>
+    #banner {
+        width: 400px; /* Adjust this value to your desired width */
+        height: auto; /* Maintains aspect ratio */
+    }
+</style>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTndFWg0gbvv6cq4rV5vXFSt9bm2YOlmBDc8A&s" alt="Logo" id="banner">
+
 
 <img src="standard.gif" alt="Logo" style="width:10; height: 10;">
  
