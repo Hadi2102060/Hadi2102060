@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![logo](banner_github.png)
  
  <h1 align="center">Hi 👋, I'm Hadibuzzaman (Hadi)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
