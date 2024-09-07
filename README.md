@@ -1,5 +1,5 @@
 
-![logo](https://user-images.githubusercontent.com/97565641/154548207-b9fc44a9-d891-4c13-b3e8-6ed5ce824f0d.jpeg)
+![logo](https://github.com/Kiran1689/kiran1689/blob/main/banner.png?raw=true)
 
 
 
