@@ -2,8 +2,6 @@
 ![logo]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://pixabay.com/videos/cascade-forest-nature-mist-foggy-150725/))
 
 
-# Hadi2102060/README.md
-
 👋 **Hey there!**
 
 I am **Hadibuzzaman**
@@ -18,7 +16,6 @@ I am **Hadibuzzaman**
 - 📝 Interested about resume? [Click here](#).
 - 💬 Feel free to text me
 
----
 
 ### Connect with Me
 [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32"/>](https://t.me/yourusername)  
@@ -53,9 +50,6 @@ I am **Hadibuzzaman**
 ### Animated Banner
 My GitHub profile features an animated banner showcasing my expertise as a **"MERNSTACK DEVELOPER AND FLUTTER DEVELOPER"**. The banner includes a tech-themed background with MERN (MongoDB, Express.js, React, Node.js) and Flutter icons, with the text "MERNSTACK DEVELOPER" sliding from left to right and "AND FLUTTER DEVELOPER" sliding from right to left, creating an engaging and dynamic visual. [View Banner](#) *(Add the GIF URL here once created)*
 
----
-
-*Last updated: March 05, 2025*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi2102060&label=Profile%20views&color=0e75b6&style=flat" alt="hadi2102060" /> </p>
 
