@@ -18,13 +18,7 @@ I am **Hadibuzzaman**
 
 
 ### Connect with Me
-[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32"/>](https://t.me/yourusername)  
-[<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="32"/>](https://yourlinuxprofile)  
-[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="32"/>](mailto:your.email@example.com)  
-[<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="32"/>](https://facebook.com/yourusername)  
-[<img src="https://img.icons8.com/color/48/000000/messenger.png" alt="Messenger" width="32"/>](https://messenger.com/yourusername)  
-[<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="32"/>](https://github.com/Hadi2102060)  
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="32"/>](https://twitter.com/yourusername)
+
 
 ---
 
@@ -60,6 +54,14 @@ My GitHub profile features an animated banner showcasing my expertise as a **"ME
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hadibuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadibuzzaman" height="30" width="40" /></a>
+
+  [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32"/>](https://t.me/yourusername)  
+[<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="32"/>](https://yourlinuxprofile)  
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="32"/>](mailto:your.email@example.com)  
+[<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="32"/>](https://facebook.com/yourusername)  
+[<img src="https://img.icons8.com/color/48/000000/messenger.png" alt="Messenger" width="32"/>](https://messenger.com/yourusername)  
+[<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="32"/>](https://github.com/Hadi2102060)  
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="32"/>](https://twitter.com/yourusername)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
