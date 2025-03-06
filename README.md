@@ -2,47 +2,6 @@
 ![logo]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://pixabay.com/videos/cascade-forest-nature-mist-foggy-150725/))
 
 
-👋 **Hey there!**
-
-I am **Hadibuzzaman**
-
-**MERNStack Developer + Flutter Developer**
-
----
-
-### About Me
-- 🌱 A passionate developer
-- 💻 I love open-source projects
-- 📝 Interested about resume? [Click here](#).
-- 💬 Feel free to text me
-
-
-
-
----
-
-### Featured Projects
-- **[Share the Love OpenSource]**  
-  <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="OpenSource" width="32"/> A community-driven open-source initiative.  
-  [Visit Repository](https://github.com/Hadi2102060/share-the-love)
-
-- **[Developer Notes]**  
-  <img src="https://img.icons8.com/color/48/000000/notes.png" alt="Notes" width="32"/> My personal collection of coding notes and tutorials.  
-  [Visit Repository](https://github.com/Hadi2102060/developer-notes)
-
-- **[Tech Headlines]**  
-  <img src="https://img.icons8.com/color/48/000000/news.png" alt="Headlines" width="32"/> Stay updated with the latest tech trends.  
-  [Visit Repository](https://github.com/Hadi2102060/tech-headlines)  
-  [Join Telegram](https://t.me/TechHeadlines)
-
----
-
-### GitHub Stats
-![Hadibuzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hadi2102060&show_icons=true&theme=radical)
-
-### Animated Banner
-My GitHub profile features an animated banner showcasing my expertise as a **"MERNSTACK DEVELOPER AND FLUTTER DEVELOPER"**. The banner includes a tech-themed background with MERN (MongoDB, Express.js, React, Node.js) and Flutter icons, with the text "MERNSTACK DEVELOPER" sliding from left to right and "AND FLUTTER DEVELOPER" sliding from right to left, creating an engaging and dynamic visual. [View Banner](#) *(Add the GIF URL here once created)*
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadi2102060&label=Profile%20views&color=0e75b6&style=flat" alt="hadi2102060" /> </p>
 
@@ -52,7 +11,8 @@ My GitHub profile features an animated banner showcasing my expertise as a **"ME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hadibuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadibuzzaman" height="30" width="40" /></a>[<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="32"/>](https://t.me/yourusername)  [<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" width="32"/>](https://yourlinuxprofile)  [<img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="32"/>](mailto:your.email@example.com)  [<img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="32"/>](https://facebook.com/yourusername)  [<img src="https://img.icons8.com/color/48/000000/messenger.png" alt="Messenger" width="32"/>](https://messenger.com/yourusername)  [<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="32"/>](https://github.com/Hadi2102060)  [<img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="32"/>](https://twitter.com/yourusername)
+<a href="https://linkedin.com/in/hadibuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadibuzzaman" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
