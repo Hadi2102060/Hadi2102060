@@ -1,5 +1,18 @@
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&h=200&q=80" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</div>
 
-![logo]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://pixabay.com/videos/cascade-forest-nature-mist-foggy-150725/))
+<!-- Header with Gradient Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Hadibuzzaman+Hadi!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</h1>
+
+<!-- Profile Views and Fun Fact -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hadi2102060&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  <br>
+</p>
 
 
 
@@ -22,6 +35,14 @@
 
 
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadi2102060&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadi2102060&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -31,8 +52,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadi2102060&show_icons=true&locale=en&layout=compact" alt="hadi2102060" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadi2102060&show_icons=true&locale=en" alt="hadi2102060" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadi2102060&" alt="hadi2102060" /></p>
+<!-- Contribution Streak -->
+<h2 align="center">🔥 Contribution Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadi2102060&theme=radical&hide_border=true" alt="Streak Stats">
+</p>
+
+
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Hadi-FF69B4?style=flat-square">
+</p>
 
 
